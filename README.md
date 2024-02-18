@@ -10,7 +10,7 @@ Machine Learning Enthusiast | Deep Learning | Natural Language Processing | Pyth
 
 
 You can Reach me on:
-  - My linkedIn on linkedin.com/in/piyush51616a177 💼
-  - My Kaggle Profile https://www.kaggle.com/piyushchaudhari99 🖥💻
+  - My linkedIn on  https://www.linkedin.com/in/piyush51616a177/ 💼
+  - My Kaggle Profile   https://www.kaggle.com/piyushchaudhari99 🖥💻
 
 
