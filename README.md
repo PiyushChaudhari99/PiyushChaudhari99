@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, It's Piyush👋 (Piyush Chaudhari)
 
-<!--
-**PiyushChaudhari99/PiyushChaudhari99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Enthusiast | Deep Learning | Natural Language Processing | Python | SQL | Power BI
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Convolution Neural Network and Natural Language Processing
+- 👯 I’m looking for a job in Data Science Domain
+- 💬 Ask me about Applications of machine learning , CNN and NLP in Mechanical dedign industry
+- 😄 Words that describe me - Pro-Active, Quick Learner, Curious & Hardworking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You can Reach me on:
+  - My linkedIn on linkedin.com/in/piyush51616a177 💼
+  - My Kaggle Profile https://www.kaggle.com/piyushchaudhari99 🖥💻
+
+
