@@ -5,7 +5,7 @@ Machine Learning Enthusiast | Deep Learning | Natural Language Processing | Pyth
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Convolution Neural Network and Natural Language Processing
 - 👯 I’m looking for a job in Data Science Domain
-- 💬 Ask me about Applications of machine learning , CNN and NLP in Mechanical dedign industry
+- 💬 Ask me about Applications of machine learning , CNN and NLP in Mechanical design industry
 - 😄 Words that describe me - Pro-Active, Quick Learner, Curious & Hardworking.
 
 
